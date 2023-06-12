@@ -1,0 +1,17 @@
+F:\TopOnTech\Interview.Api\Interview.Repository\bin\Debug\net6.0\Interview.Repository.deps.json
+F:\TopOnTech\Interview.Api\Interview.Repository\bin\Debug\net6.0\Interview.Repository.dll
+F:\TopOnTech\Interview.Api\Interview.Repository\bin\Debug\net6.0\Interview.Repository.pdb
+F:\TopOnTech\Interview.Api\Interview.Repository\bin\Debug\net6.0\Interview.Infrastructure.dll
+F:\TopOnTech\Interview.Api\Interview.Repository\bin\Debug\net6.0\Interview.Infrastructure.pdb
+F:\TopOnTech\Interview.Api\Interview.Repository\obj\Debug\net6.0\Interview.Repository.csproj.AssemblyReference.cache
+F:\TopOnTech\Interview.Api\Interview.Repository\obj\Debug\net6.0\Interview.Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\TopOnTech\Interview.Api\Interview.Repository\obj\Debug\net6.0\Interview.Repository.AssemblyInfoInputs.cache
+F:\TopOnTech\Interview.Api\Interview.Repository\obj\Debug\net6.0\Interview.Repository.AssemblyInfo.cs
+F:\TopOnTech\Interview.Api\Interview.Repository\obj\Debug\net6.0\Interview.Repository.csproj.CoreCompileInputs.cache
+F:\TopOnTech\Interview.Api\Interview.Repository\obj\Debug\net6.0\Interview.Repository.csproj.CopyComplete
+F:\TopOnTech\Interview.Api\Interview.Repository\obj\Debug\net6.0\Interview.Repository.dll
+F:\TopOnTech\Interview.Api\Interview.Repository\obj\Debug\net6.0\refint\Interview.Repository.dll
+F:\TopOnTech\Interview.Api\Interview.Repository\obj\Debug\net6.0\Interview.Repository.pdb
+F:\TopOnTech\Interview.Api\Interview.Repository\obj\Debug\net6.0\ref\Interview.Repository.dll
+F:\TopOnTech\Interview.Api\Interview.Repository\bin\Debug\net6.0\Interview.Models.dll
+F:\TopOnTech\Interview.Api\Interview.Repository\bin\Debug\net6.0\Interview.Models.pdb

@@ -1,0 +1,12 @@
+F:\TopOnTech\Interview.Api\Interview.Infrastructure\bin\Debug\net6.0\Interview.Infrastructure.deps.json
+F:\TopOnTech\Interview.Api\Interview.Infrastructure\bin\Debug\net6.0\Interview.Infrastructure.dll
+F:\TopOnTech\Interview.Api\Interview.Infrastructure\bin\Debug\net6.0\Interview.Infrastructure.pdb
+F:\TopOnTech\Interview.Api\Interview.Infrastructure\obj\Debug\net6.0\Interview.Infrastructure.csproj.AssemblyReference.cache
+F:\TopOnTech\Interview.Api\Interview.Infrastructure\obj\Debug\net6.0\Interview.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\TopOnTech\Interview.Api\Interview.Infrastructure\obj\Debug\net6.0\Interview.Infrastructure.AssemblyInfoInputs.cache
+F:\TopOnTech\Interview.Api\Interview.Infrastructure\obj\Debug\net6.0\Interview.Infrastructure.AssemblyInfo.cs
+F:\TopOnTech\Interview.Api\Interview.Infrastructure\obj\Debug\net6.0\Interview.Infrastructure.csproj.CoreCompileInputs.cache
+F:\TopOnTech\Interview.Api\Interview.Infrastructure\obj\Debug\net6.0\Interview.Infrastructure.dll
+F:\TopOnTech\Interview.Api\Interview.Infrastructure\obj\Debug\net6.0\refint\Interview.Infrastructure.dll
+F:\TopOnTech\Interview.Api\Interview.Infrastructure\obj\Debug\net6.0\Interview.Infrastructure.pdb
+F:\TopOnTech\Interview.Api\Interview.Infrastructure\obj\Debug\net6.0\ref\Interview.Infrastructure.dll

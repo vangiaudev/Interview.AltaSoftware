@@ -1,0 +1,12 @@
+F:\TopOnTech\Interview.Api\Interview.Models\bin\Debug\net6.0\Interview.Models.deps.json
+F:\TopOnTech\Interview.Api\Interview.Models\bin\Debug\net6.0\Interview.Models.dll
+F:\TopOnTech\Interview.Api\Interview.Models\bin\Debug\net6.0\Interview.Models.pdb
+F:\TopOnTech\Interview.Api\Interview.Models\obj\Debug\net6.0\Interview.Models.csproj.AssemblyReference.cache
+F:\TopOnTech\Interview.Api\Interview.Models\obj\Debug\net6.0\Interview.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\TopOnTech\Interview.Api\Interview.Models\obj\Debug\net6.0\Interview.Models.AssemblyInfoInputs.cache
+F:\TopOnTech\Interview.Api\Interview.Models\obj\Debug\net6.0\Interview.Models.AssemblyInfo.cs
+F:\TopOnTech\Interview.Api\Interview.Models\obj\Debug\net6.0\Interview.Models.csproj.CoreCompileInputs.cache
+F:\TopOnTech\Interview.Api\Interview.Models\obj\Debug\net6.0\Interview.Models.dll
+F:\TopOnTech\Interview.Api\Interview.Models\obj\Debug\net6.0\refint\Interview.Models.dll
+F:\TopOnTech\Interview.Api\Interview.Models\obj\Debug\net6.0\Interview.Models.pdb
+F:\TopOnTech\Interview.Api\Interview.Models\obj\Debug\net6.0\ref\Interview.Models.dll
